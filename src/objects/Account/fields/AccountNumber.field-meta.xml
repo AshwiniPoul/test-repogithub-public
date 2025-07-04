@@ -2,5 +2,6 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>AccountNumber</fullName>
     <trackFeedHistory>false</trackFeedHistory>
-    <description>aaaaddded 1fffff1122 ggggggggggggggggggggggdessstr 20.54</description>
+    <description>aaaaddded 1fffff1122 ggggggggggggggggggggggde
+        ddddddssstr 20.54</description>
 </CustomField>
