@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Direct</fullName>
+        <default>false</default>
+        <label>Direct</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Email</fullName>
+        <default>false</default>
+        <label>Email</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Events</fullName>
+        <default>false</default>
+        <label>Events</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Organic Search</fullName>
+        <default>false</default>
+        <label>Organic Search</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Organic Social</fullName>
+        <default>false</default>
+        <label>Organic Social</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Paid Social</fullName>
+        <default>false</default>
+        <label>Paid Social</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Paid Ads</fullName>
+        <default>false</default>
+        <label>Paid Ads</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Partners</fullName>
+        <default>false</default>
+        <label>Partners</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Purchased List</fullName>
+        <default>false</default>
+        <label>Purchased List</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Referrals</fullName>
+        <default>false</default>
+        <label>Referrals</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales Outreach</fullName>
+        <default>false</default>
+        <label>Inside Sales Outreach</label>
+    </standardValue>
+    <standardValue>
+        <fullName>SDR Agency</fullName>
+        <default>false</default>
+        <label>SDR Agency</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Third Party Vendors</fullName>
+        <default>false</default>
+        <label>Third Party Vendors</label>
+    </standardValue>
+</StandardValueSet>

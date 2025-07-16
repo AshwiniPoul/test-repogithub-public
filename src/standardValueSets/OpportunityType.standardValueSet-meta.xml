@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>New Business - Direct</fullName>
+        <default>true</default>
+        <label>New Business - Direct</label>
+    </standardValue>
+    <standardValue>
+        <fullName>New Business - Partner</fullName>
+        <default>false</default>
+        <label>New Business - Partner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Renewal</fullName>
+        <default>false</default>
+        <label>Renewal</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Upsell/Cross Sell</fullName>
+        <default>false</default>
+        <label>Upsell/Cross Sell</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Professional Services - One Time</fullName>
+        <default>false</default>
+        <label>Professional Services - One Time</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Professional Services - Add-On</fullName>
+        <default>false</default>
+        <label>Professional Services - Add-On</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Paid Pilot</fullName>
+        <default>false</default>
+        <label>Paid Pilot</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Partner</fullName>
+        <default>false</default>
+        <label>Partner</label>
+    </standardValue>
+</StandardValueSet>
